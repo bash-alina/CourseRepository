@@ -1,3 +1,2 @@
 Changes
-Line from user2
-Another line from user2
+Another Line from user1
