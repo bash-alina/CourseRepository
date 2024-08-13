@@ -1,1 +1,2 @@
 HI, Alina
+Line from user 1.1 - lesson about rebase
