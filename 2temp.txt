@@ -1,2 +1,3 @@
 Changes
-Another Line from user1 again
+New line user2 again - problem
+Another line from user2
